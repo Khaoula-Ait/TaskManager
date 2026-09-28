@@ -20,5 +20,9 @@ namespace TaskManager
         {
             Console.WriteLine("Task Edited Successfully");
         }
+        public static void DeleteTask()
+        {
+            Console.WriteLine("Task Deleted Successfully");
+        }
     }
 }
