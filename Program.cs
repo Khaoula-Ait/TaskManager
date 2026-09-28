@@ -7,6 +7,7 @@
             Console.WriteLine("\t=== Task Manager ===\n");
             TaskManager.ShowTasks();
             TaskManager.AddTask();
+            TaskManager.EditTask();
 
         }
     }

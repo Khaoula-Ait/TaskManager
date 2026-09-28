@@ -16,5 +16,9 @@ namespace TaskManager
         {
             Console.WriteLine("Task Added Successfully");
         }
+        public static void EditTask()
+        {
+            Console.WriteLine("Task Edited Successfully");
+        }
     }
 }
