@@ -12,5 +12,9 @@ namespace TaskManager
         {
             Console.WriteLine("No Tasks Available");
         }
+        public static void AddTask()
+        {
+            Console.WriteLine("Task Added Successfully");
+        }
     }
 }
